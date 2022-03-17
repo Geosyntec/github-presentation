@@ -136,3 +136,5 @@ Use it to share a cool analysis notebook you made that is a good example of some
   * learn js frameworks like `react` or `vue` and `node` build tools like `vite` to build and deploy your free static site.
 * Learn about managing "remotes" like `origin` and `upstream`
 * Make a contribution to a project, or publish your own project and get help from your team.
+
+[cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
