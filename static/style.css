@@ -1,0 +1,22 @@
+.title {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
+}
+
+.container {
+  display: grid;
+  grid-column: 2;
+  max-width: 800px;
+  margin: auto;
+  justify-items: center;
+}
+
+.gif {
+  width: 100%;
+  height: auto;
+}
